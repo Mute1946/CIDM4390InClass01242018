@@ -1,0 +1,11 @@
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\bin\Debug\netcoreapp1.1\SimpleDependency.deps.json
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\bin\Debug\netcoreapp1.1\SimpleDependency.runtimeconfig.json
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\bin\Debug\netcoreapp1.1\SimpleDependency.runtimeconfig.dev.json
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\bin\Debug\netcoreapp1.1\SimpleDependency.dll
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\bin\Debug\netcoreapp1.1\SimpleDependency.pdb
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\bin\Debug\netcoreapp1.1\MessagePrinter.dll
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\bin\Debug\netcoreapp1.1\MessagePrinter.pdb
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\obj\Debug\netcoreapp1.1\SimpleDependency.csproj.CoreCompileInputs.cache
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\obj\Debug\netcoreapp1.1\SimpleDependency.AssemblyInfo.cs
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\obj\Debug\netcoreapp1.1\SimpleDependency.dll
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\SimpleDependency\obj\Debug\netcoreapp1.1\SimpleDependency.pdb

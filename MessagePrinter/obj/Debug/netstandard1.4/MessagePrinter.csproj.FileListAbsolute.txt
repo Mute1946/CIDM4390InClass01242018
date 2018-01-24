@@ -1,0 +1,7 @@
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\MessagePrinter\bin\Debug\netstandard1.4\MessagePrinter.deps.json
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\MessagePrinter\bin\Debug\netstandard1.4\MessagePrinter.dll
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\MessagePrinter\bin\Debug\netstandard1.4\MessagePrinter.pdb
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\MessagePrinter\obj\Debug\netstandard1.4\MessagePrinter.csproj.CoreCompileInputs.cache
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\MessagePrinter\obj\Debug\netstandard1.4\MessagePrinter.AssemblyInfo.cs
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\MessagePrinter\obj\Debug\netstandard1.4\MessagePrinter.dll
+D:\tsellmyer\School\4390\Chapter03\SimpleDenpendy\MessagePrinter\obj\Debug\netstandard1.4\MessagePrinter.pdb
